@@ -1,2 +1,5 @@
 .DS_Store
 ETLPipelines/1_csv_exercise/.ipynb_checkpoints/
+
+#all the checkpoints
+.ipynb_checkpoints
