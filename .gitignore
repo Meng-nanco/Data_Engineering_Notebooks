@@ -3,3 +3,8 @@ ETLPipelines/1_csv_exercise/.ipynb_checkpoints/
 
 #all the checkpoints
 .ipynb_checkpoints
+
+#data
+ETLPipelines/17_load_exercise/countrydata.csv
+ETLPipelines/17_load_exercise/countrydata.json
+ETLPipelines/17_load_exercise/worldbank.db
