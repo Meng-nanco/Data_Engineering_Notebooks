@@ -8,3 +8,4 @@ ETLPipelines/1_csv_exercise/.ipynb_checkpoints/
 ETLPipelines/17_load_exercise/countrydata.csv
 ETLPipelines/17_load_exercise/countrydata.json
 ETLPipelines/17_load_exercise/worldbank.db
+ETLPipelines/18_final_exercise/worldbank.db
